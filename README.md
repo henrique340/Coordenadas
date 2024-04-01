@@ -12,6 +12,11 @@ Ele funciona da seguinte forma
 
 * **Distância:** Essa função calcula a distância entre dois pontos (dAB² = (xB - xA)² + (yB - yA)²
 
+## Testes
+![image](https://github.com/henrique340/Coordenadas/assets/79547136/b4fd2074-e744-423d-9cc7-9aa5c22cd389)
+
+![image](https://github.com/henrique340/Coordenadas/assets/79547136/1addcd60-b61e-4a25-a2bf-8ea4c3280279)
+
 ## :wrench: Tecnologias utilizadas
 * Python
 
